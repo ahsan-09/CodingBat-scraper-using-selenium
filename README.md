@@ -28,11 +28,14 @@
 ## About The Project
 
 
-## Code
-![Code](https://github.com/Zeeshanahmad4/Tweets-Scraper-twitter-Selenium/blob/master/4.jpg)
+## website
+![Code](https://codingbat.com/java)
+<p align="center">
+  <h3 align="center">Extract Data From Each Section</h3>
+  
+ </p>
 
-## Output Data
-![Output-Data](https://github.com/Zeeshanahmad4/Tweets-Scraper-twitter-Selenium/blob/master/1.PNG)
+
 
 
 ### Built With
